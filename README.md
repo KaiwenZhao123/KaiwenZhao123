@@ -29,10 +29,11 @@
 
 ### Hobbies
 
-![Hiking](https://img.shields.io/badge/Hiking-8B4513?style=for-the-badge&logo=mountain&logoColor=white&labelColor=black)
-![Gym](https://img.shields.io/badge/Gym-FF4500?style=for-the-badge&logo=fitness&logoColor=white&labelColor=black)
-![Skiing](https://img.shields.io/badge/Skiing-1E90FF?style=for-the-badge&logo=skiing&logoColor=white&labelColor=black)
-![Board Games](https://img.shields.io/badge/Board%20Games-8A2BE2?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=black)
+### Hobbies
 
+![🥾 Hiking](https://img.shields.io/badge/-Hiking-8B4513?style=for-the-badge&logoColor=white)
+![🏋️ Gym](https://img.shields.io/badge/-Gym-FF4500?style=for-the-badge&logoColor=white)
+![🎿 Skiing](https://img.shields.io/badge/-Skiing-1E90FF?style=for-the-badge&logoColor=white)
+![🎲 Board Games](https://img.shields.io/badge/-Board%20Games-8A2BE2?style=for-the-badge&logoColor=white)
 
 </div>
