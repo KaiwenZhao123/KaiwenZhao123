@@ -25,3 +25,25 @@
     <img src="https://img.shields.io/badge/Click_for_details-WebCalculator_Project-%236B3BCE?style=for-the-badge&logo=github&logoColor=white" alt="WebCalculator Project">
   </a>
 </div>
+
+### Hobbies
+
+<div style="display: flex; gap: 10px; align-items: center;">
+
+  <div style="background: #f0f0f0; border-radius: 8px; padding: 10px; display: flex; align-items: center; box-shadow: 0px 2px 4px rgba(0,0,0,0.1);">
+    🥾 <span style="margin-left: 8px;">Hiking</span>
+  </div>
+
+  <div style="background: #f0f0f0; border-radius: 8px; padding: 10px; display: flex; align-items: center; box-shadow: 0px 2px 4px rgba(0,0,0,0.1);">
+    🏋️ <span style="margin-left: 8px;">Gym</span>
+  </div>
+
+  <div style="background: #f0f0f0; border-radius: 8px; padding: 10px; display: flex; align-items: center; box-shadow: 0px 2px 4px rgba(0,0,0,0.1);">
+    🎿 <span style="margin-left: 8px;">Skiing</span>
+  </div>
+
+  <div style="background: #f0f0f0; border-radius: 8px; padding: 10px; display: flex; align-items: center; box-shadow: 0px 2px 4px rgba(0,0,0,0.1);">
+    🎲 <span style="margin-left: 8px;">Board Games</span>
+  </div>
+
+</div>
