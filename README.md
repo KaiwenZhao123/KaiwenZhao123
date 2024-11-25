@@ -1,30 +1,20 @@
 # Projects
 
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://github.com/ZKW0001/Multithreaded_Programming_Project" style="text-decoration:none; flex: 0 1 calc(50% - 10px);">
-    <div style="background: linear-gradient(90deg, #373BCE, #4B51E3); color: white; padding: 10px; font-weight: bold; border-radius: 5px; text-align: center; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);">
-      Multithreaded Programming Project
-    </div>
+    <img src="https://img.shields.io/badge/Multithreaded_Programming_Project-%23373BCE?style=flat-square&logo=github&logoColor=white" style="width: 100%; max-width: 380px;" alt="Multithreaded Programming Project">
   </a>
   <a href="https://github.com/ZKW0001/Data_networking_project" style="text-decoration:none; flex: 0 1 calc(50% - 10px);">
-    <div style="background: linear-gradient(90deg, #CE3B9A, #E356B4); color: white; padding: 10px; font-weight: bold; border-radius: 5px; text-align: center; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);">
-      Data Networking Project
-    </div>
+    <img src="https://img.shields.io/badge/Data_Networking_Project-%23CE3B9A?style=flat-square&logo=github&logoColor=white" style="width: 100%; max-width: 380px;" alt="Data Networking Project">
   </a>
   <a href="https://github.com/ZKW0001/STM32_microcontroller_programming" style="text-decoration:none; flex: 0 1 calc(50% - 10px);">
-    <div style="background: linear-gradient(90deg, #CE9F3B, #E3B355); color: white; padding: 10px; font-weight: bold; border-radius: 5px; text-align: center; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);">
-      STM32 Microcontroller Programming
-    </div>
+    <img src="https://img.shields.io/badge/STM32_Microcontroller_Programming-%23CE9F3B?style=flat-square&logo=github&logoColor=white" style="width: 100%; max-width: 380px;" alt="STM32 Microcontroller Programming">
   </a>
   <a href="https://github.com/ZKW0001/Statistical_Analysis_Using_C_on_Engineering_Datasets" style="text-decoration:none; flex: 0 1 calc(50% - 10px);">
-    <div style="background: linear-gradient(90deg, #3BCE6F, #56E388); color: white; padding: 10px; font-weight: bold; border-radius: 5px; text-align: center; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);">
-      Statistical Analysis Using C
-    </div>
+    <img src="https://img.shields.io/badge/Statistical_Analysis_Using_C-%233BCE6F?style=flat-square&logo=github&logoColor=white" style="width: 100%; max-width: 380px;" alt="Statistical Analysis Using C">
   </a>
   <a href="https://github.com/ZKW0001/WebCalculator_Project" style="text-decoration:none; flex: 0 1 calc(50% - 10px);">
-    <div style="background: linear-gradient(90deg, #6B3BCE, #8856E3); color: white; padding: 10px; font-weight: bold; border-radius: 5px; text-align: center; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);">
-      WebCalculator Project
-    </div>
+    <img src="https://img.shields.io/badge/WebCalculator_Project-%236B3BCE?style=flat-square&logo=github&logoColor=white" style="width: 100%; max-width: 380px;" alt="WebCalculator Project">
   </a>
 </div>
+
