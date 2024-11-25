@@ -27,23 +27,12 @@
 </div>
 
 ### Hobbies
+### Hobbies
 
-<div style="display: flex; gap: 10px; align-items: center;">
+![🥾 Hiking](https://img.shields.io/badge/-🥾%20Hiking-8B4513?style=for-the-badge&logo=undefined&logoColor=white)
+![🏋️ Gym](https://img.shields.io/badge/-🏋️%20Gym-FF4500?style=for-the-badge&logo=undefined&logoColor=white)
+![🎿 Skiing](https://img.shields.io/badge/-🎿%20Skiing-1E90FF?style=for-the-badge&logo=undefined&logoColor=white)
+![🎲 Board Games](https://img.shields.io/badge/-🎲%20Board%20Games-8A2BE2?style=for-the-badge&logo=undefined&logoColor=white)
 
-  <div style="background: #f0f0f0; border-radius: 8px; padding: 10px; display: flex; align-items: center; box-shadow: 0px 2px 4px rgba(0,0,0,0.1);">
-    🥾 <span style="margin-left: 8px;">Hiking</span>
-  </div>
-
-  <div style="background: #f0f0f0; border-radius: 8px; padding: 10px; display: flex; align-items: center; box-shadow: 0px 2px 4px rgba(0,0,0,0.1);">
-    🏋️ <span style="margin-left: 8px;">Gym</span>
-  </div>
-
-  <div style="background: #f0f0f0; border-radius: 8px; padding: 10px; display: flex; align-items: center; box-shadow: 0px 2px 4px rgba(0,0,0,0.1);">
-    🎿 <span style="margin-left: 8px;">Skiing</span>
-  </div>
-
-  <div style="background: #f0f0f0; border-radius: 8px; padding: 10px; display: flex; align-items: center; box-shadow: 0px 2px 4px rgba(0,0,0,0.1);">
-    🎲 <span style="margin-left: 8px;">Board Games</span>
-  </div>
 
 </div>
