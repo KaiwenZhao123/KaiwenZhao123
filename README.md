@@ -28,10 +28,8 @@
 
 
 ### Hobbies
+### Hobbies
 
-![🥾 Hiking](https://img.shields.io/badge/-Hiking-8B4513?style=for-the-badge&logoColor=white)
-![🏋️ Gym](https://img.shields.io/badge/-Gym-FF4500?style=for-the-badge&logoColor=white)
-![🎿 Skiing](https://img.shields.io/badge/-Skiing-1E90FF?style=for-the-badge&logoColor=white)
-![🎲 Board Games](https://img.shields.io/badge/-Board%20Games-8A2BE2?style=for-the-badge&logoColor=white)
+🥾 **Hiking** &nbsp;&nbsp; | &nbsp;&nbsp; 🏋️ **Gym** &nbsp;&nbsp; | &nbsp;&nbsp; 🎿 **Skiing** &nbsp;&nbsp; | &nbsp;&nbsp; 🎲 **Board Games**
 
 </div>
