@@ -28,11 +28,13 @@
 
 ### Hobbies
 ### Hobbies
+### Hobbies
 
-![🥾 Hiking](https://img.shields.io/badge/-🥾%20Hiking-8B4513?style=for-the-badge&logo=undefined&logoColor=white)
-![🏋️ Gym](https://img.shields.io/badge/-🏋️%20Gym-FF4500?style=for-the-badge&logo=undefined&logoColor=white)
-![🎿 Skiing](https://img.shields.io/badge/-🎿%20Skiing-1E90FF?style=for-the-badge&logo=undefined&logoColor=white)
-![🎲 Board Games](https://img.shields.io/badge/-🎲%20Board%20Games-8A2BE2?style=for-the-badge&logo=undefined&logoColor=white)
+![Hiking](https://img.shields.io/badge/-Hiking-8B4513?style=flat-square&logo=boots&logoWidth=20&labelColor=black)
+![Gym](https://img.shields.io/badge/-Gym-FF4500?style=flat-square&logo=dumbbell&logoWidth=20&labelColor=black)
+![Skiing](https://img.shields.io/badge/-Skiing-1E90FF?style=flat-square&logo=skiing&logoWidth=20&labelColor=black)
+![Board Games](https://img.shields.io/badge/-Board%20Games-8A2BE2?style=flat-square&logo=boardgame&logoWidth=20&labelColor=black)
+
 
 
 </div>
